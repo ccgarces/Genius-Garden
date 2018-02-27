@@ -7,3 +7,5 @@
 - IOT implementation.
 - Utilised cloud computing resources for data storage.
 - will be an AI controlled plant growing with insect detection.
+
+![Alt text](/diyrobocar.jpg?raw=true "Genius Garden")
