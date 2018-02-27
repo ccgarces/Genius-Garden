@@ -8,4 +8,4 @@
 - Utilised cloud computing resources for data storage.
 - will be an AI controlled plant growing with insect detection.
 
-![Alt text](/GG.jpg?raw=true "Genius Garden")
+![Alt text](/images/GG.jpg?raw=true "Genius Garden")
