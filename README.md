@@ -13,7 +13,7 @@
 ![Alt text](/images/dash2.jpg?raw=true "Genius Garden")
 
 ### NDVI Plant health camera
-![Alt text](/images/ndvi.jpg?raw=true "ndvi")
+![Alt text](/images/ndvi.JPG?raw=true "ndvi")
 
 ### The prototype
 ![Alt text](/images/GG.jpg?raw=true "Genius Garden")
