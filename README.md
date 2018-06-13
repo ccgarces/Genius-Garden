@@ -1,5 +1,5 @@
 # Genius-Garden
-- A community based precession-agriculture backyard farm prototype.
+- A community based precision-agriculture backyard farm prototype.
 - Hydroponic method of gardening.
     - Uses less power and conserved water.
     - An outdoor garden, very challenging growing climate (sometimes, 4 seasons in one day).
